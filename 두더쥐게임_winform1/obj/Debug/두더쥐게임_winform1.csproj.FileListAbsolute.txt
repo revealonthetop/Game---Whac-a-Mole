@@ -1,0 +1,34 @@
+C:\Users\Lenovo_gogossing\Documents\Obsidian Vault\3. 리소스\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\bin\Debug\두더쥐게임_winform1.exe.config
+C:\Users\Lenovo_gogossing\Documents\Obsidian Vault\3. 리소스\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\bin\Debug\두더쥐게임_winform1.exe
+C:\Users\Lenovo_gogossing\Documents\Obsidian Vault\3. 리소스\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\bin\Debug\두더쥐게임_winform1.pdb
+C:\Users\Lenovo_gogossing\Documents\Obsidian Vault\3. 리소스\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.csproj.AssemblyReference.cache
+C:\Users\Lenovo_gogossing\Documents\Obsidian Vault\3. 리소스\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.Form1.resources
+C:\Users\Lenovo_gogossing\Documents\Obsidian Vault\3. 리소스\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.Properties.Resources.resources
+C:\Users\Lenovo_gogossing\Documents\Obsidian Vault\3. 리소스\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.csproj.GenerateResource.cache
+C:\Users\Lenovo_gogossing\Documents\Obsidian Vault\3. 리소스\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo_gogossing\Documents\Obsidian Vault\3. 리소스\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.exe
+C:\Users\Lenovo_gogossing\Documents\Obsidian Vault\3. 리소스\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.pdb
+C:\Users\Lenovo_gogossing\Documents\GitHubFile\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\bin\Debug\두더쥐게임_winform1.exe.config
+C:\Users\Lenovo_gogossing\Documents\GitHubFile\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\bin\Debug\두더쥐게임_winform1.exe
+C:\Users\Lenovo_gogossing\Documents\GitHubFile\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\bin\Debug\두더쥐게임_winform1.pdb
+C:\Users\Lenovo_gogossing\Documents\GitHubFile\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.csproj.AssemblyReference.cache
+C:\Users\Lenovo_gogossing\Documents\GitHubFile\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.Form1.resources
+C:\Users\Lenovo_gogossing\Documents\GitHubFile\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.Properties.Resources.resources
+C:\Users\Lenovo_gogossing\Documents\GitHubFile\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.csproj.GenerateResource.cache
+C:\Users\Lenovo_gogossing\Documents\GitHubFile\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo_gogossing\Documents\GitHubFile\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.exe
+C:\Users\Lenovo_gogossing\Documents\GitHubFile\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.pdb
+C:\Users\Lenovo_gogossing\Documents\GitHubFile\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\bin\Debug\src\nomal.png
+C:\Users\Lenovo_gogossing\Documents\GitHubFile\KostaProgramingClass\C_Sharp\두더쥐게임_winform1\두더쥐게임_winform1\bin\Debug\src\hit.png
+C:\Users\Lenovo_gogossing\Desktop\자기소개서 관련 서류\포트폴리오 제작 소개 내용들\7. Csharp_winform을 이용한 두더쥐 집기게임\두더쥐게임_winform1\bin\Debug\src\nomal.png
+C:\Users\Lenovo_gogossing\Desktop\자기소개서 관련 서류\포트폴리오 제작 소개 내용들\7. Csharp_winform을 이용한 두더쥐 집기게임\두더쥐게임_winform1\bin\Debug\src\hit.png
+C:\Users\Lenovo_gogossing\Desktop\자기소개서 관련 서류\포트폴리오 제작 소개 내용들\7. Csharp_winform을 이용한 두더쥐 집기게임\두더쥐게임_winform1\bin\Debug\두더쥐게임_winform1.exe.config
+C:\Users\Lenovo_gogossing\Desktop\자기소개서 관련 서류\포트폴리오 제작 소개 내용들\7. Csharp_winform을 이용한 두더쥐 집기게임\두더쥐게임_winform1\bin\Debug\두더쥐게임_winform1.exe
+C:\Users\Lenovo_gogossing\Desktop\자기소개서 관련 서류\포트폴리오 제작 소개 내용들\7. Csharp_winform을 이용한 두더쥐 집기게임\두더쥐게임_winform1\bin\Debug\두더쥐게임_winform1.pdb
+C:\Users\Lenovo_gogossing\Desktop\자기소개서 관련 서류\포트폴리오 제작 소개 내용들\7. Csharp_winform을 이용한 두더쥐 집기게임\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.csproj.AssemblyReference.cache
+C:\Users\Lenovo_gogossing\Desktop\자기소개서 관련 서류\포트폴리오 제작 소개 내용들\7. Csharp_winform을 이용한 두더쥐 집기게임\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.Form1.resources
+C:\Users\Lenovo_gogossing\Desktop\자기소개서 관련 서류\포트폴리오 제작 소개 내용들\7. Csharp_winform을 이용한 두더쥐 집기게임\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.Properties.Resources.resources
+C:\Users\Lenovo_gogossing\Desktop\자기소개서 관련 서류\포트폴리오 제작 소개 내용들\7. Csharp_winform을 이용한 두더쥐 집기게임\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.csproj.GenerateResource.cache
+C:\Users\Lenovo_gogossing\Desktop\자기소개서 관련 서류\포트폴리오 제작 소개 내용들\7. Csharp_winform을 이용한 두더쥐 집기게임\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo_gogossing\Desktop\자기소개서 관련 서류\포트폴리오 제작 소개 내용들\7. Csharp_winform을 이용한 두더쥐 집기게임\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.exe
+C:\Users\Lenovo_gogossing\Desktop\자기소개서 관련 서류\포트폴리오 제작 소개 내용들\7. Csharp_winform을 이용한 두더쥐 집기게임\두더쥐게임_winform1\obj\Debug\두더쥐게임_winform1.pdb
